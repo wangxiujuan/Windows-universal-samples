@@ -32,7 +32,7 @@ namespace Test_01
         {
             this.InitializeComponent();
             this.Suspending += OnSuspending;
-            AppCenter.Start("6283ec98-e4c8-4acc-89a6-32cadb877ef6", typeof(Analytics));
+            AppCenter.Start("57fb2a8a-ffba-4ac6-9276-9f0c94c00229", typeof(Analytics));
         }
 
         /// <summary>
